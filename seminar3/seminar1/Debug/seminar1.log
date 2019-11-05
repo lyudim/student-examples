@@ -1,0 +1,6 @@
+﻿  student.cpp
+  test_classes.cpp
+F:\pe_2019\seminar1\seminar1\student.h(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+F:\pe_2019\seminar1\seminar1\student.h(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  seminar1.vcxproj -> F:\pe_2019\seminar1\Debug\seminar1.exe
